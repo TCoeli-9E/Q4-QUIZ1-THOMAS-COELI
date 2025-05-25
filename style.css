@@ -1,0 +1,14 @@
+body{
+	background-image:url(concret.jpg) ;
+	color: #e3dcda;
+}
+
+.container{
+	background-color: #453f3c;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+a{
+	color: #e3dcda;
+}
